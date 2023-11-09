@@ -1,0 +1,16 @@
+.MalibanfirstImgEng{
+  height: 250px;
+  width: 300px;
+  background-image: url('./asset/300\ x\ 250\ Eng\ slide\ 2.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.clockMaliban{
+  padding-top: 185px;
+
+  width: fit-content;
+  padding-left: 30px;
+}
