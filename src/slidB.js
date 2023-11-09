@@ -35,22 +35,22 @@ function SlideB() {
             {
               sep: '',
               type: 'days',
-              title: 'Days',
+              title: '',
             },
             {
               sep: ':',
               type: 'hours',
-              title: 'Hours',
+              title: '',
             },
             {
               sep: ':',
               type: 'minutes',
-              title: 'Minutes',
+              title: '',
             },
             {
               sep: ':',
               type: 'seconds',
-              title: 'Seconds',
+              title: '',
             },
           ]}
         />

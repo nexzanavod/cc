@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import Logo from './asset/300 x 250 Eng slide 1.jpg';
+import Logo from './asset/300 x 250 slide 1 (1).jpg';
 import SlideB from "./slidB"
 
 function App() {
